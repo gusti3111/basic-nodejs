@@ -1,0 +1,17 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "basic-NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "hi npm",
+    "dev": "hi",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gusti",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.7.0"
+  }
+}

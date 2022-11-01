@@ -1,0 +1,11 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "create first server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gusti.mispuansyah@gmail.com",
+  "license": "ISC"
+}
